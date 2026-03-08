@@ -1,0 +1,4 @@
+# Data files should not be kept in this repo.
+*.csv
+
+*.pyc
