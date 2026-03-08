@@ -1,0 +1,101 @@
+INVENTORY_ID,REGION,SERIES_CLASS,BEST_MODEL,BEST_METRIC_VALUE
+SKU-1,FC-RJ,Low data,naive,0.5
+SKU-1,FC-SP,Low data,naive,4.5
+SKU-11,FC-SP,Zero-inflated,naive,1.0
+SKU-13,FC-SP,Zero-inflated,tsb,2.4270304186137137
+SKU-15,FC-BA,Full series,arima,6.16100807712663e-31
+SKU-15,FC-PE,Full series,arima,0.0
+SKU-15,FC-PR,Full series,arima,9.469765517143653e-31
+SKU-15,FC-RJ,Full series,arima,3.123151578878809e-65
+SKU-15,FC-SC,Full series,arima,3.542789133901378e-32
+SKU-15,FC-SP,Full series,arima,8.281452372366078e-31
+SKU-17,FC-SC,Zero-inflated,tsb,0.12561066666666665
+SKU-18,FC-BA,Low data,naive,0.5
+SKU-18,FC-PE,Low data,naive,1.5
+SKU-18,FC-RJ,Low data,naive,4.5
+SKU-18,FC-SC,Low data,naive,2.0
+SKU-18,FC-SP,Low data,naive,1.5
+SKU-19,FC-BA,Full series,arima,0.35878490081505887
+SKU-19,FC-PE,Full series,arima,1.7667963972449836
+SKU-19,FC-PR,Full series,arima,1.320530791693574
+SKU-19,FC-RJ,Full series,arima,3.222437655980073
+SKU-19,FC-SC,Zero-inflated,tsb,10.360567312554785
+SKU-2,FC-SP,Low data,naive,2.0
+SKU-24,FC-BA,Zero-inflated,naive,10.043478260869565
+SKU-24,FC-PE,Zero-inflated,tsb,6.740184996264343
+SKU-24,FC-PR,Zero-inflated,naive,8.173913043478262
+SKU-24,FC-RJ,Zero-inflated,naive,25.130434782608695
+SKU-24,FC-SC,Zero-inflated,naive,15.652173913043477
+SKU-24,FC-SP,Full series,arima,59.127632838511715
+SKU-26,FC-SP,Zero-inflated,naive,0.4722222222222222
+SKU-28,FC-BA,Full series,arima,5.673295746049351
+SKU-28,FC-PE,Zero-inflated,naive,4.956521739130435
+SKU-28,FC-PR,Zero-inflated,naive,4.434782608695652
+SKU-28,FC-RJ,Zero-inflated,naive,5.782608695652174
+SKU-3,FC-SC,Low data,naive,0.5
+SKU-31,FC-PE,Zero-inflated,tsb,1.6139549692395518
+SKU-33,FC-BA,Zero-inflated,tsb,20.345973803054413
+SKU-33,FC-PE,Full series,arima,16.583452187557405
+SKU-33,FC-PR,Full series,arima,25.18214115855433
+SKU-33,FC-RJ,Full series,arima,21.67640391991945
+SKU-33,FC-SC,Full series,arima,2.269616694704098
+SKU-33,FC-SP,Full series,arima,61.58207824480138
+SKU-35,FC-BA,Zero-inflated,tsb,3.729893965373547
+SKU-35,FC-PR,Full series,arima,0.11177168872961424
+SKU-35,FC-RJ,Full series,arima,5.140210852917372
+SKU-39,FC-PE,Full series,arima,0.28755791485064225
+SKU-39,FC-PR,Full series,arima,0.04818014207088227
+SKU-39,FC-RJ,Full series,arima,0.33325599809897793
+SKU-39,FC-SC,Zero-inflated,tsb,1.4768370444769634
+SKU-39,FC-SP,Zero-inflated,tsb,19.653324476515863
+SKU-42,FC-SP,Low data,naive,0.5
+SKU-5,FC-BA,Zero-inflated,naive,3.8260869565217392
+SKU-5,FC-PE,Zero-inflated,naive,8.043478260869565
+SKU-5,FC-PR,Zero-inflated,naive,8.326086956521738
+SKU-5,FC-SC,Zero-inflated,naive,12.304347826086957
+SKU-51,FC-BA,Full series,arima,9.80883233851813
+SKU-51,FC-PE,Zero-inflated,naive,4.0
+SKU-51,FC-PR,Zero-inflated,naive,0.021739130434782705
+SKU-51,FC-RJ,Zero-inflated,tsb,2.579276166223689
+SKU-51,FC-SC,Zero-inflated,tsb,2.1966650346348224
+SKU-52,FC-SP,Low data,naive,1.3333333333333335
+SKU-54,FC-SP,Low data,naive,0.0
+SKU-55,FC-PE,Zero-inflated,naive,1.0
+SKU-56,FC-BA,Zero-inflated,tsb,19.150459016715878
+SKU-56,FC-PE,Zero-inflated,tsb,3.6865531222442804
+SKU-56,FC-PR,Zero-inflated,tsb,3.366035228221026
+SKU-58,FC-BA,Low data,naive,8.0
+SKU-58,FC-PE,Low data,naive,0.0
+SKU-58,FC-PR,Low data,naive,3.0
+SKU-58,FC-RJ,Low data,naive,7.0
+SKU-58,FC-SC,Low data,naive,1.0
+SKU-58,FC-SP,Low data,naive,32.5
+SKU-59,FC-SP,Zero-inflated,tsb,0.19091200056240995
+SKU-62,FC-BA,Zero-inflated,naive,1.7826086956521738
+SKU-62,FC-PE,Zero-inflated,naive,1.4782608695652173
+SKU-63,FC-BA,Low data,naive,27.0
+SKU-63,FC-PE,Low data,naive,14.5
+SKU-63,FC-PR,Low data,naive,21.5
+SKU-63,FC-RJ,Low data,naive,29.0
+SKU-63,FC-SC,Low data,naive,25.0
+SKU-63,FC-SP,Low data,naive,116.0
+SKU-67,FC-BA,Full series,arima,0.7272545248187443
+SKU-67,FC-PE,Zero-inflated,naive,2.3043478260869565
+SKU-70,FC-BA,Low data,naive,0.5
+SKU-70,FC-PR,Low data,naive,0.0
+SKU-70,FC-RJ,Low data,naive,0.5
+SKU-70,FC-SP,Low data,naive,0.5
+SKU-71,FC-BA,Zero-inflated,tsb,16.25025248207939
+SKU-71,FC-PE,Zero-inflated,tsb,6.688151747059151
+SKU-71,FC-SC,Zero-inflated,tsb,12.254178374923029
+SKU-73,FC-SP,Zero-inflated,tsb,0.08188697106436058
+SKU-74,FC-BA,Full series,arima,11.914255011842203
+SKU-74,FC-PE,Zero-inflated,tsb,17.052490621325788
+SKU-74,FC-RJ,Zero-inflated,tsb,16.67350422402587
+SKU-74,FC-SC,Full series,arima,20.82853359843696
+SKU-75,FC-RJ,Zero-inflated,tsb,8.444197188781127
+SKU-78,FC-BA,Low data,naive,4.5
+SKU-78,FC-RJ,Low data,naive,8.5
+SKU-78,FC-SP,Low data,naive,25.5
+SKU-8,FC-SP,Low data,naive,0.5
+SKU-9,FC-SP,Low data,naive,1.5
